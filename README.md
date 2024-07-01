@@ -37,7 +37,7 @@
 <div style="color:orange">
 
 * Implements a new Entites ( )
-* Create interface from the repository for better control ( )
+* Create interface from the repository for better control (x)
 * Verify and validade endpoints as well as input and ouputs from the database ( )
 * Use security 2OAUTH dependency and JWT ( )
 * Create repository with transactions ( ) 
